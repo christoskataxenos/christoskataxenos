@@ -31,6 +31,11 @@ Based near Stuttgart, Germany, I am a technically versatile IT professional and 
 
 ## Key Projects
 
+### [aetherflow-orchestrator](https://github.com/christoskataxenos/aetherflow-orchestrator)
+> An asynchronous Directed Acyclic Graph (DAG) task and agent orchestration engine.
+*   **Tech Stack:** Python, FastAPI, WebSockets, HTML5/CSS3.
+*   **Core Feature:** Visual web dashboard showing concurrent task execution, live terminal logging, and state synchronization.
+
 ### [EAP Online Compiler](https://github.com/christoskataxenos/Eap-online-compiler)
 > A web-based compilation and runtime environment built for university students to run and debug exam-level pseudocode.
 *   **Tech Stack:** JavaScript, HTML5, Web Workers, Custom Lexer/Parser.
