@@ -70,7 +70,7 @@ Based near Stuttgart, Germany, I am a technically versatile IT professional and 
   <a href="mailto:christosk8926@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://christoskataxenos.github.io" target="_blank">
+  <a href="https://christoskataxenos.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
