@@ -28,20 +28,30 @@ Based near Stuttgart, Germany, I am a technically versatile IT professional and 
 *   **Languages:** English (Native), Greek (Native), German (B1 - ifa-Akademie Stuttgart)
 
 ---
- ### Featured Project: Pharos News Feed
+ # Featured Project: Pharos News Feed
 
-    A production-ready, high-performance RSS aggregator that fetches news asynchronously and presents them in an interactive 3D WebGL environment.
+Ένας production‑ready, high‑performance RSS aggregator που φέρνει ειδήσεις **ασύγχρονα** και τις παρουσιάζει σε **interactive 3D WebGL περιβάλλον**.
 
-    **[Explore the Repository (Pharos-News-Feed)](https://github.com/christoskataxenos/Pharos-News-Feed)**
+**🔗 Explore the Repository (Pharos‑News‑Feed)**  
+https://github.com/christoskataxenos/Pharos-News-Feed
 
-    *   **Backend:** Python, FastAPI, SQLite (WAL mode for high concurrency)
-    *   **Frontend:** Vanilla JS, CSS Glassmorphism, Three.js (WebGL particles)
-    *   **Performance:** Asynchronous Scraping (`aiohttp`), Cursor-based pagination, Background threading
-    *   **Security:** Rate Limiting (`slowapi`), XSS/SSRF Protection (`DOMPurify`), HTTP Basic Auth
-    *   **DevOps:** Fully Dockerized
-    *   **Extra Features:** Built-in AI article translation (`deep-translator`), Automatic Open Graph (OG) image extraction.
+---
 
-    [![Docker Image Version](https://img.shields.io/docker/v/christosk89/feedflow?sort=semver&logo=docker&label=Docker%20Hub)](https://hub.docker.com/repository/docker/christosk89/feedflow/general)
+## Tech Stack
+
+- **[Backend](ca://s?q=Explain_Backend_stack)** — Python, FastAPI, SQLite (WAL mode για υψηλή ταυτόχρονη πρόσβαση)
+- **[Frontend](ca://s?q=Explain_Frontend_stack)** — Vanilla JS, CSS Glassmorphism, Three.js (WebGL particles)
+- **[Performance](ca://s?q=Performance_features_breakdown)** — Asynchronous Scraping (`aiohttp`), cursor‑based pagination, background threading
+- **[Security](ca://s?q=Security_features_breakdown)** — Rate Limiting (`slowapi`), XSS/SSRF Protection (`DOMPurify`), HTTP Basic Auth
+- **[DevOps](ca://s?q=DevOps_details)** — Fully Dockerized
+- **[Extra Features](ca://s?q=Extra_features_details)** — AI article translation (`deep-translator`), automatic Open Graph image extraction
+
+---
+
+## Docker Image
+
+[![Docker Image Version](https://img.shields.io/docker/v/christosk89/feedflow?sort=semver&logo=docker&label=Docker%20Hub)](https://hub.docker.com/repository/docker/christosk89/feedflow/general)
+
   
 ## Key Projects
 
