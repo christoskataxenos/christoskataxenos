@@ -1,20 +1,21 @@
 # Christos Kataxenos
 
-### IT Systems Specialist | Computer Science Student | Software Developer
+### IT Systems Specialist • Computer Science Student • Software Developer  
+Based near Stuttgart, Germany
 
-Based near Stuttgart, Germany, I am a technically versatile IT professional and current Computer Science student bridging international experience in system administration, network integration, and building automation with modern software engineering.
-
----
-
-## Professional Summary
-
-*   **Global Experience:** Bicultural (English & Greek native speaker) with over 8 years of technical experience across Australia, Greece, and Germany.
-*   **Academic Foundation:** Currently pursuing a Bachelor of Science (B.Sc.) in Computer Science at the **Hellenic Open University (EAP)** (since Oct 2025).
-*   **Tech Transition:** Leveraging hands-on systems engineering, telecommunications, and building automation experience to transition into software development, DevOps, and technical systems engineering.
+A technically versatile IT professional and current Computer Science student, combining international experience in system administration, network integration, and building automation with modern software engineering and backend development.
 
 ---
 
-## Tech Stack & Skills
+## 🌍 Professional Summary
+
+- **Global Experience:** Bicultural (English & Greek native speaker) with 8+ years of technical work across Australia, Greece, and Germany.  
+- **Academic Foundation:** B.Sc. in Computer Science at **Hellenic Open University (EAP)** (since Oct 2025).  
+- **Tech Transition:** Moving from systems engineering & telecom integration into software development, DevOps, and technical systems engineering.
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,84 +23,99 @@ Based near Stuttgart, Germany, I am a technically versatile IT professional and 
   </a>
 </p>
 
-*   **Programming Languages:** Python, JavaScript, TypeScript, C, SQL
-*   **Systems & Infrastructure:** Linux (Debian/Ubuntu), Docker, Proxmox VE, Git/GitHub, Bash
-*   **IT & Telecom Administration:** Network configuration, systems integration, hardware diagnostics, smart home building automation
-*   **Languages:** English (Native), Greek (Native), German (B1 - ifa-Akademie Stuttgart)
-
----
- # Featured Project: Pharos News Feed
-
-Ένας production‑ready, high‑performance RSS aggregator που φέρνει ειδήσεις **ασύγχρονα** και τις παρουσιάζει σε **interactive 3D WebGL περιβάλλον**.
-
-**🔗 Explore the Repository (Pharos‑News‑Feed)**  
-https://github.com/christoskataxenos/Pharos-News-Feed
+- **Programming:** Python, JavaScript, TypeScript, C, SQL  
+- **Systems & Infrastructure:** Linux (Debian/Ubuntu), Docker, Proxmox VE, Git/GitHub, Bash  
+- **IT & Telecom:** Network configuration, systems integration, diagnostics, smart home automation  
+- **Languages:** English (Native), Greek (Native), German (B1 – ifa Akademie Stuttgart)
 
 ---
 
-## Tech Stack
+# ⭐ Featured Project  
+## **Pharos News Feed**
 
-- **[Backend](ca://s?q=Explain_Backend_stack)** — Python, FastAPI, SQLite (WAL mode για υψηλή ταυτόχρονη πρόσβαση)
-- **[Frontend](ca://s?q=Explain_Frontend_stack)** — Vanilla JS, CSS Glassmorphism, Three.js (WebGL particles)
-- **[Performance](ca://s?q=Performance_features_breakdown)** — Asynchronous Scraping (`aiohttp`), cursor‑based pagination, background threading
-- **[Security](ca://s?q=Security_features_breakdown)** — Rate Limiting (`slowapi`), XSS/SSRF Protection (`DOMPurify`), HTTP Basic Auth
-- **[DevOps](ca://s?q=DevOps_details)** — Fully Dockerized
-- **[Extra Features](ca://s?q=Extra_features_details)** — AI article translation (`deep-translator`), automatic Open Graph image extraction
+A production‑ready, high‑performance RSS aggregator that fetches news **asynchronously** and presents them in an **interactive 3D WebGL environment**.
 
----
+🔗 **Repository:** https://github.com/christoskataxenos/Pharos-News-Feed
 
-## Docker Image
+### Tech Stack
+- **Backend:** Python, FastAPI, SQLite (WAL mode)  
+- **Frontend:** Vanilla JS, CSS Glassmorphism, Three.js  
+- **Performance:** `aiohttp` async scraping, cursor pagination, background threading  
+- **Security:** `slowapi` rate limiting, XSS/SSRF protection, HTTP Basic Auth  
+- **DevOps:** Fully Dockerized  
+- **Extra:** AI translation (`deep-translator`), automatic Open Graph image extraction  
 
+### Docker Image
 [![Docker Image Version](https://img.shields.io/docker/v/christosk89/feedflow?sort=semver&logo=docker&label=Docker%20Hub)](https://hub.docker.com/repository/docker/christosk89/feedflow/general)
 
-  
-## Key Projects
+---
 
-### [aetherflow-orchestrator](https://github.com/christoskataxenos/aetherflow-orchestrator)
-> An asynchronous Directed Acyclic Graph (DAG) task and agent orchestration engine.
-*   **Tech Stack:** Python, FastAPI, WebSockets, HTML5/CSS3.
-*   **Core Feature:** Visual web dashboard showing concurrent task execution, live terminal logging, and state synchronization.
+# 📦 Key Projects
 
-### [EAP Online Compiler](https://github.com/christoskataxenos/Eap-online-compiler)
-> A web-based compilation and runtime environment built for university students to run and debug exam-level pseudocode.
-*   **Tech Stack:** JavaScript, HTML5, Web Workers, Custom Lexer/Parser.
-*   **Core Feature:** Runs entirely client-side to execute university pseudocode instantly.
-
-### [papatzis-spotter](https://github.com/christoskataxenos/papatzis-spotter)
-> A privacy-first, local AST analyzer designed to detect LLM-generated code syntax signatures.
-*   **Tech Stack:** Python, Abstract Syntax Trees (AST), JSON scoring.
-*   **Core Feature:** 100% offline detection of structural code patterns.
-
-### [DevToolsInstall](https://github.com/christoskataxenos/DevToolsInstall)
-> An automated Windows provisioning desktop application to set up developer environments.
-*   **Tech Stack:** Python, PyQt5 / PySide2, Windows Package Manager (Winget).
-*   **Core Feature:** Single-click installation of over 100 dev utilities with Greek and English localization.
-
-### [video-to-ml-suite](https://github.com/christoskataxenos/video-to-ml-suite)
-> A hardware-accelerated video frame extraction pipeline designed to prepare image datasets for Machine Learning models.
-*   **Tech Stack:** Python, OpenCV, CUDA.
-*   **Core Feature:** High-speed frame extraction powered by GPU acceleration.
+## **aetherflow-orchestrator**  
+https://github.com/christoskataxenos/aetherflow-orchestrator  
+An asynchronous DAG task & agent orchestration engine.  
+- **Stack:** Python, FastAPI, WebSockets, HTML/CSS  
+- **Highlight:** Visual dashboard with concurrent task execution & live terminal logs
 
 ---
 
-## Background Highlights
-
-*   **Systems & Network Specialist (Sydney, Australia | 2014 - 2017):** Installed, configured, and integrated smart home automation controls, telecom network structures, and security hardware.
-*   **IT Support & Customer Engineer (Rhodes, Greece | 2018):** Handled hardware configuration, system support, customer diagnostics, and customized program deployment.
-*   **Telecommunications Corps (Military Service | 2011):** Provided IT system administration and support for communications networks. Developed a custom database application to manage and organize inventory and warehouse logistics.
+## **EAP Online Compiler**  
+https://github.com/christoskataxenos/Eap-online-compiler  
+A web-based compilation & runtime environment for university pseudocode.  
+- **Stack:** JavaScript, HTML5, Web Workers  
+- **Highlight:** Fully client-side execution with custom lexer & parser
 
 ---
 
-## Connect with me
+## **papatzis-spotter**  
+https://github.com/christoskataxenos/papatzis-spotter  
+A privacy-first AST analyzer detecting LLM-generated code patterns.  
+- **Stack:** Python, AST, JSON scoring  
+- **Highlight:** 100% offline structural code analysis
+
+---
+
+## **DevToolsInstall**  
+https://github.com/christoskataxenos/DevToolsInstall  
+Automated Windows provisioning desktop app for developers.  
+- **Stack:** Python, PyQt5/PySide2, Winget  
+- **Highlight:** One-click installation of 100+ dev tools with EN/GR localization
+
+---
+
+## **video-to-ml-suite**  
+https://github.com/christoskataxenos/video-to-ml-suite  
+High-performance video frame extraction pipeline for ML datasets.  
+- **Stack:** Python, OpenCV, CUDA  
+- **Highlight:** GPU-accelerated frame extraction
+
+---
+
+# 🧩 Background Highlights
+
+- **Systems & Network Specialist — Sydney, Australia (2014–2017):**  
+  Smart home automation, telecom network structures, security hardware integration.
+
+- **IT Support & Customer Engineer — Rhodes, Greece (2018):**  
+  Hardware configuration, diagnostics, system support, custom deployments.
+
+- **Telecommunications Corps — Military Service (2011):**  
+  IT system administration for communication networks.  
+  Built a custom database app for inventory & warehouse logistics.
+
+---
+
+# 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christos-kataxenos-4b9588267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:christosk8926@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://christoskataxenos.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
