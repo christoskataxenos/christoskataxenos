@@ -28,7 +28,11 @@ Based near Stuttgart, Germany, I am a technically versatile IT professional and 
 *   **Languages:** English (Native), Greek (Native), German (B1 - ifa-Akademie Stuttgart)
 
 ---
-
+## Currently working on: Pharos-News-Feed
+  │ https://github.com/christoskataxenos/Pharos-News-Feed – A high-
+  │ performance, asynchronous RSS aggregator built with FastAPI, SQLite
+  │ (WAL mode), and an interactive 3D WebGL frontend. Dockerized and fully secured.
+  
 ## Key Projects
 
 ### [aetherflow-orchestrator](https://github.com/christoskataxenos/aetherflow-orchestrator)
