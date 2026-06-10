@@ -15,7 +15,7 @@ A technically versatile IT professional and current Computer Science student, co
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
