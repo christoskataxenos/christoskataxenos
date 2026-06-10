@@ -7,7 +7,7 @@ A technically versatile IT professional and current Computer Science student, co
 
 ---
 
-## 🌍 Professional Summary
+##  Professional Summary
 
 - **Global Experience:** Bicultural (English & Greek native speaker) with 8+ years of technical work across Australia, Greece, and Germany.  
 - **Academic Foundation:** B.Sc. in Computer Science at **Hellenic Open University (EAP)** (since Oct 2025).  
@@ -30,7 +30,7 @@ A technically versatile IT professional and current Computer Science student, co
 
 ---
 
-# ⭐ Featured Project  
+#  Featured Project  
 ## **Pharos News Feed**
 
 A production‑ready, high‑performance RSS aggregator that fetches news **asynchronously** and presents them in an **interactive 3D WebGL environment**.
@@ -50,7 +50,7 @@ A production‑ready, high‑performance RSS aggregator that fetches news **asyn
 
 ---
 
-# 📦 Key Projects
+#  Key Projects
 
 ## **aetherflow-orchestrator**  
 https://github.com/christoskataxenos/aetherflow-orchestrator  
@@ -92,7 +92,7 @@ High-performance video frame extraction pipeline for ML datasets.
 
 ---
 
-# 🧩 Background Highlights
+#  Background Highlights
 
 - **Systems & Network Specialist — Sydney, Australia (2014–2017):**  
   Smart home automation, telecom network structures, security hardware integration.
@@ -106,7 +106,7 @@ High-performance video frame extraction pipeline for ML datasets.
 
 ---
 
-# 🤝 Connect with Me
+#  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christos-kataxenos-4b9588267/" target="_blank">
