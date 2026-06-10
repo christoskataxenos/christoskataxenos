@@ -28,10 +28,20 @@ Based near Stuttgart, Germany, I am a technically versatile IT professional and 
 *   **Languages:** English (Native), Greek (Native), German (B1 - ifa-Akademie Stuttgart)
 
 ---
-## Currently working on: Pharos-News-Feed
-  │ https://github.com/christoskataxenos/Pharos-News-Feed – A high-
-  │ performance, asynchronous RSS aggregator built with FastAPI, SQLite
-  │ (WAL mode), and an interactive 3D WebGL frontend. Dockerized and fully secured.
+ ### Featured Project: Pharos News Feed
+
+    A production-ready, high-performance RSS aggregator that fetches news asynchronously and presents them in an interactive 3D WebGL environment.
+
+    **[Explore the Repository (Pharos-News-Feed)](https://github.com/christoskataxenos/Pharos-News-Feed)**
+
+    *   **Backend:** Python, FastAPI, SQLite (WAL mode for high concurrency)
+    *   **Frontend:** Vanilla JS, CSS Glassmorphism, Three.js (WebGL particles)
+    *   **Performance:** Asynchronous Scraping (`aiohttp`), Cursor-based pagination, Background threading
+    *   **Security:** Rate Limiting (`slowapi`), XSS/SSRF Protection (`DOMPurify`), HTTP Basic Auth
+    *   **DevOps:** Fully Dockerized
+    *   **Extra Features:** Built-in AI article translation (`deep-translator`), Automatic Open Graph (OG) image extraction.
+
+    [![Docker Image Version](https://img.shields.io/docker/v/christosk89/feedflow?sort=semver&logo=docker&label=Docker%20Hub)](https://hub.docker.com/repository/docker/christosk89/feedflow/general)
   
 ## Key Projects
 
